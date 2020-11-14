@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="1136576269">
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="10" x="12170.31" z="12553.26" r="160"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="12129.96" z="12576.11" r="120"/>
+    </territory>
+    <territory color="1910952871">
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="5" dmax="10" x="12116.35" z="12284.93" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="5" dmax="10" x="11822.26" z="12776.87" r="100"/>
+    </territory>
+    <territory color="1291845632">
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="3" dmax="6" x="12381.76" z="12124.51" r="120"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="3" smax="5" dmin="10" dmax="20" x="11862.61" z="12364.17" r="90"/>
+        <zone name="InfectedMedic" smin="4" smax="8" dmin="10" dmax="20" x="11776.08" z="12420.07" r="100"/>
+    </territory>
+    <territory color="1289674462">
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="10" dmax="20" x="11686.64" z="12863.89" r="150"/>
+    </territory>
+    <territory color="2809946700">
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="12248.86" z="12763.55" r="150"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="7" dmax="13" x="12145.32" z="12765.01" r="130"/>
+    </territory>
+    <territory color="1794965508">
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="6" dmax="10" x="11984.62" z="12077.46" r="150"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="12168.46" z="12637.94" r="150"/>
+    </territory>
+    <territory color="1790009876">
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="5" dmax="10" x="12220.86" z="12582.92" r="150"/>
+    </territory>
+    <territory color="1102461653">
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="10" dmax="20" x="12003.58" z="12837.64" r="200"/>
+    </territory>
+</territory-type>
